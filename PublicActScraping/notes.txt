@@ -1,0 +1,46 @@
+NEWER GA
+
+Min-max
+99    2015    2016    Public Acts --> Listing    938
+98    2013    2014    Public Acts --> Listing    1175
+97    2011    2012    Public Acts --> Listing    1173
+96    2009    2010    Public Acts --> Listing    1555
+95    2007    2008    Public Acts --> Listing    1056
+94    2005    2006    Public Acts --> Listing    1113
+93    2003    2004    Public Acts --> Listing    1102
+
+http://www.ilga.gov/legislation/publicacts/grplist.asp?GA=98&Min=0001&Max=1175
+
+http://www.ilga.gov/legislation/publicacts/fulltext.asp?Name=098-0006&GA=98
+fulltext.asp?Name=098-0006&GA=98
+
+==================================
+OLDER GA
+
+Group
+92    2001    2002    Public Acts --> Listing    886
+91    1999    2000    Public Acts --> Listing    954
+90    1997    1998    Public Acts --> Listing    819
+
+http://www.ilga.gov/legislation/publicacts/pubact91/pa91group8.html
+http://www.ilga.gov/legislation/publicacts/pubact91/pa91group10.html
+
+http://www.ilga.gov/legislation/publicacts/pubact90/acts/90-0001.html
+acts/92-0001.html
+
+
+Public Act 90-0809   HB0470   LANDSCAPE WASTE BURNING BAN
+Public Act 097-0895    SB   2958    INC TX CHECKOFFS-NO TRANSFERS
+
+original
+acts/91-0901.html
+None
+
+original
+acts/91-0954.html
+None
+
+<A HREF="acts/91-0901.html">
+	<STRONG><FONT FACE="courier new">Public
+  Act 91-0901&nbsp;&nbsp;&nbsp;SB1453&nbsp;&nbsp;&nbsp;SALES TX-QUARTER
+  ANNUAL FILING</FONT></STRONG></A>
